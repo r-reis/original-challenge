@@ -85,7 +85,8 @@
                             }
                         }
                         .slick-arrow {
-                            background-image: url(../images/small-arrow.png);
+                            background-image: url(../images/small-arrow.png);                            
+                            background-color: transparent;
                             background-size: contain;
                             background-repeat: no-repeat;
                             border: none;
@@ -272,6 +273,7 @@
                     } 
                     .slick-arrow {
                         background-image: url(../images/arrow.png);
+                        background-color: transparent;
                         background-size: contain;
                         background-repeat: no-repeat;
                         bottom: -7px;
@@ -300,6 +302,7 @@
                             display: none;
                             list-style-type: none;
                             button {
+                                background-color: transparent;
                                 border: none;
                                 color: $dark-blue;
                                 cursor: pointer;
