@@ -1,5 +1,12 @@
 # Front-End Dev challenge
 
+## Required:
+1 - Node ^8.9.4
+
+2 - Gulp ^3.9.1
+
+3 - Gulp CLI ^2.0.1
+
 ## How to use:
 
 1 - run "npm install".
@@ -9,7 +16,7 @@
 3 - Look for "index.html" file at dist folder.
 
 
-# Alternative
+# Alternative:
 
 Go to "build.zip" file, extract and check the "index.html".
 
